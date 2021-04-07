@@ -72,7 +72,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(Lukas Hummer, 2.0.6/BadExtruder_hotfix, 03/04/2021)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Lukas Hummer, 2.0.6/BadExtruder_hotfix, 07/04/2021)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
